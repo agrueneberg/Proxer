@@ -1,0 +1,21 @@
+{
+    "name": "proxer",
+    "description": "A configurable HTTP(S) proxy.",
+    "version": "0.1.0",
+    "author": {
+        "name": "Alexander Grüneberg",
+        "email": "alexander.grueneberg@googlemail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/agrueneberg/Proxer"
+    },
+    "licenses": [{
+        "type": "The MIT License",
+        "url": "http://www.opensource.org/licenses/mit-license.php"
+    }],
+    "main": "./lib/proxer.js",
+    "engines": {
+        "node": ">= 0.4.0"
+    }
+}
