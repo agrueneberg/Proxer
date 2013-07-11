@@ -1,7 +1,7 @@
 {
     "name": "proxer",
     "description": "A configurable HTTP(S) proxy.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": {
         "name": "Alexander Grüneberg",
         "email": "alexander.grueneberg@googlemail.com"
