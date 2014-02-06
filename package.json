@@ -11,6 +11,6 @@
         "url": "https://github.com/agrueneberg/Proxer.git"
     },
     "engines": {
-        "node": ">= 0.4.0"
+        "node": ">= 0.10.0"
     }
 }
